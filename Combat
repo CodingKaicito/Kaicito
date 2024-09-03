@@ -1,0 +1,36 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>mark 
+            background-color: rgb(255, 255, 0);
+            color: black;
+            </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <h1><mark>Combat</mark></h1>
+
+    <br>
+
+    <style>
+        body {
+          background-color: #89cfa0;
+        }
+      
+        h2, p, button {
+          background-color: rgba(173, 230, 194, 0);
+        }
+      </style>
+
+    <body style="font-family:'Albura';">
+
+      <ul>
+        <li>When fighting, keep your cross hair on your opponent. Preferably at head length.</li>
+      </ul>
+
+
+
+
+    </body>
+    </html>
