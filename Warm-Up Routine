@@ -1,0 +1,81 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>mark { 
+            background-color: rgb(255, 255, 0);
+            color: black;
+            </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <h1><mark>Warm-Up Routine</mark></h1>
+
+    <br>
+
+    <style>
+        body {
+          background-color: #89cfa0;
+        }
+      
+        h2, p, button {
+          background-color: rgba(173, 230, 194, 0);
+        }
+      </style>
+
+    <body style="font-family:'Burbank Big Condensed';">
+
+        <h2>First:</h2>
+
+        <h3>Clix Aim Trainer(1090-1665-3359):</h3>
+        
+        <ul>
+        <li>Sentry Tracking</li>
+        <li>Circle Tracking</li>
+        <li>Reactive Tracking</li>
+        <li>Smooth Tracking Far</li>
+        <li>Tile Frenzy (Normal, Horizontal, and Vertical)</li>
+        <li>Moving Frenzy</li>
+        <li>360 Target Switch</li>
+        <li>1 Wall 5 Targets</li>
+        <li>Shotgun Frenzy</li>
+        <li>360 Shotgun Frenzy</li>
+        </ul>
+
+        <br>
+
+        <h2>Second:</h2>
+
+        <h3>Mechanics Training V4(8135-1582-8472)</h3>
+        <ul>
+        <li>Peek Practice</li>
+        <li>All the Piece Control</li>
+        <li>All the Edit Training</li>
+        <li>Free Build</li>
+        </ul>
+
+        <br>
+
+        <h2>Third:</h2>
+
+        <h3>The Training Hub(5257-9815-3361)</h3>
+        <ul>
+        <li>All the Aim</li>
+        <li>All the Editing</li>
+        <li>All the Wall Replacing</li>
+        <li>Random Piece Control + What You Need to Work On</li>
+        <li>All Piece Tunnels</li>
+        </ul>
+
+        <br>
+        <br>
+
+        <h2>(If Extra Time):</h2>
+
+        <h3>Head-Shot Box Fights(1157-8631-6613)</h3>
+        <h3>W KEY FIGHTS 1v1(9766-6203-8383)</h3>
+        <h3>1V2 CLUTCH REALISTICS(6809-4712-6549)</h3>
+        <h3>INFINITE FFA Box Fights(4981-4426-6816)</h3>
+
+    </body>
+    </html>

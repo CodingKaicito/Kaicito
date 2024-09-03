@@ -1,0 +1,58 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>mark { 
+            background-color: rgb(255, 255, 0);
+            color: black;
+            </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <h1><mark>Ranked</mark></h1>
+
+    <br>
+
+    <style>
+        body {
+          background-color: #89cfa0;
+        }
+      
+        h2, p, button {
+          background-color: rgba(173, 230, 194, 0);
+        }
+      </style>
+
+    <body style="font-family:'Albura';">
+
+      <h2>Overall:</h2>
+        
+        <ul>
+        <li>Match Quests, Bosses, Satellite Towers, and Loot Island give you rank percentage. </li>
+        <li>Get 3rd party kills because players fighting will be low on health.</li>
+        <li>If there is more than one other person, fight outside your POI or location. What I mean by this is don’t go in the middle of your location so you don’t get third parties very hard. Stay on the outskirts and 3rd party but from a distance.</li>
+        <li>Stop relying on placement points and get some kills.</li>
+        <li>Dealing damage gives you %. Even if someone steals your kill, if you deal most of the damage, you will probably gain more percent from that player than them.</li>
+    </ul>
+
+    <br>
+
+    <h2>Early Game:</h2>
+
+    <br>
+
+    <h2>Mid Game:</h2>
+
+    <ul>
+      <li>Stay on the dead side of zone. This is the side of zone where the zone before was not closing this part very much at all. Here, you will get more kills, and a less chance of dying.</li>
+    </ul>
+
+    <br>
+
+    <h2>Late Game:</h2>
+
+
+
+
+    </body>
+    </html>
