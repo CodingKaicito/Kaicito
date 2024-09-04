@@ -1,17 +1,193 @@
 <!DOCTYPE html>
     <html lang="en">
     <head>
-        <style>mark  
-            background-color: rgb(255, 255, 0);
-            color: black;
-            </style>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
     </head>
-    <h1><mark>PANDA_AIMBOTZ's Fortnite Tips</mark></h1>
+    <h1><mark>PANDA_AIMBOTZ's Fortnite Guide</mark></h1>
 
     <br>
+
+    <body> 
+      
+      <div style="font-family:'Burbank Big Condensed';">
+
+        <p>Here is my complete guide on getting better at Fortnite:</p>
+
+        <br>
+  
+      <a href="#Combat"><h2>Combat</h2></a>
+      <a href="#Building and Editing"><h2>Building and Editing</h2></a>
+      <a href="#Ranked"><h2>Ranked</h2></a>
+      <a href="#Practice Maps"><h2>Practice Maps</h2></a>
+
+
+    </div>
+
+  
+      <br>
+      <br>
+
+      <div id="Combat" 
+      style="font-family:'Albura';">  
+
+        <h1><u>Combat</u></h1>
+
+          <ul>
+            <li>When fighting, keep your cross hair on your opponent. Preferably at head length.</li>
+            <li>Aim duel MUCH more.</li>
+            <li>You need to micro adjust. A micro adjust is when after you flick, you don't just shoot. You "micro adjust"/move a tiny bit to make sure your shot is on point.</li>
+          </ul>
+
+
+    </div>
+
+
+    <br>
+    <br>
+
+
+    <div id="Building and Editing"
+    style="font-family:'Albura';">
+
+    <h1><u>Building and Editing</u></h1>
+      
+      
+      <h2>Building:</h2>
+      <ul>
+        <li>Side Jump with Cover: Place two stairs going up and then put a cone at the top of the second stair. Then, on the second stair, jump to the side and make two more stairs. Repeat.
+          <li>Before engaging with someone, block off all signs of danger.</li>
+          <li>If a person is under you spraying you or has no cover, you can jump and shoot them; preferably with a pump, and then immediately place a floor. Because of delay, they won’t know what hit them.</li>
+          <li>If someone is in a box with no cone or stair and if there is no floor or cone in front of their box, you can look a bit under their wall and phase a cone in their box. Then, predict their reaction on where they will go and box them up.</li>
+          <li>Don’t box yourself in wood.</li>
+      </ul>
+      
+      <br>
+      
+      <h2>Editing:</h2>
+      <p>(I am going to be combining editing with other stuff to leave out confuseness)</p>
+      
+      <h3>(Editing)</h3>
+      <ul>
+        <li>When you do an edit, finish it at your opponent so you have a momentum when shooting them.</li>
+      
+      </ul>
+      
+      <h3>(Piece Control)</h3>
+      <ul>
+        <li>Plan out your piece control before you just run in and go with your gut.</li>
+        <li>The person that is doing the movement has the advantage</li>
+        <li>When you see someone with only 1 wall in their box, get their back, side, and then front wall. You can also struggle to get a cone in there. Then just piece them up with a diagonal peak or a window edit.</li>
+      
+      </ul>
+      
+      <h3>(Peaking)</h3>
+      <ul>
+        <li>If you are standing on a cone and your opponent is in the middle of their box or your box, you can do a wall edit where you open the bottom right 2 spots and then also one up from the bottom right. Now if you are still standing on the cone you can shoot them but they won’t see you.</li>
+      </ul>
+
+
+    </div>
+
+    <br>
+    <br>
+
+
+      <div id="Ranked" 
+      style="font-family:'Albura';">    
+
+
+        <h1><u>Ranked</u></h1>
+        <h2>Overall:</h2>
+        
+        <ul>
+        <li>Match Quests, Bosses, Satellite Towers, and Loot Island give you rank percentage. </li>
+        <li>Get 3rd party kills because players fighting will be low on health.</li>
+        <li>If there is more than one other person, fight outside your POI or location. What I mean by this is don’t go in the middle of your location so you don’t get third parties very hard. Stay on the outskirts and 3rd party but from a distance.</li>
+        <li>Stop relying on placement points and get some kills.</li>
+        <li>Dealing damage gives you %. Even if someone steals your kill, if you deal most of the damage, you will probably gain more percent from that player than them.</li>
+    </ul>
+
+    <br>
+
+    <h2>Early Game:</h2>
+
+    <br>
+
+    <h2>Mid Game:</h2>
+
+    <ul>
+      <li>Stay on the dead side of zone. This is the side of zone where the zone before was not closing this part very much at all. Here, you will get more kills, and a less chance of dying.</li>
+    </ul>
+
+    <br>
+
+    <h2>Late Game:</h2>
+
+  
+  </div>
+
+
+  <br>
+  <br>
+
+  <div id="Practice Maps" 
+  style="font-family:'Albura';">
+
+    <h1><u>Practice Maps</u></h1>
+
+        <h3>Head-Shot Box Fights(1157-8631-6613)</h3>
+        <h3>W KEY FIGHTS 1v1(9766-6203-8383)</h3>
+        <h3>1V2 CLUTCH REALISTICS(6809-4712-6549)</h3>
+        <h3>INFINITE FFA Box Fights(4981-4426-6816)</h3>
+
+
+  </div>
+
+    </body>
+
+
+
+
+<br>
+<br>
+
+
+
+    <footer>      
+      
+      <h4>Now check out my warm-up routine: <a href="Warm-Up Routine"><h4 style="display:inline">Warm-Up Routine</h4></a>
+      </h4>
+      <br>
+      <br>
+      <br>
+      <br>
+
+
+      <p></p>kaidiaz60@gmail.com</p>
+      (952)-388-4159</p>
+
+      <br>
+
+      <a href="beacons.ai/kaitorresdiaz">My Sites</a>
+      
+      <br>
+
+      <br>
+      
+    <br>
+    <br>
+
+    <p>(I made all this in Visual Studio Code.)</p>
+</footer>
+    </html>
+
+
+
+
+
+
 
     <style>
         body {
@@ -27,35 +203,3 @@
   text-decoration: underline;
 }
       </style>
-
-    <body style="font-family:'Burbank Big Condensed';">
-
-      <p>In March of 2024 I thought it would be fun to read books and write down what I learned from those books on a website (I made all this in Visual Studio Code.) Hopefully these words will change your life and make you a better person overall. I wrote down sentences word for word from the books onto the sites. Here they are:</p>
-    
-      <br>
-  
-      <a href="Ranked"><h2>Ranked</h2></a>
-      <a href="Combat"><h2>Combat</h2></a>
-  
-      <br>
-      <br>
-  
-      
-      <p></p>kaidiaz60@gmail.com</p>
-          (952)-388-4159</p>
-  
-          <br>
-  
-          <a href="beacons.ai/kaitorresdiaz">My Sites</a>
-          
-          <br>
-
-          <br>
-        <br>
-        <br>
-
-        <p>(I made all this in Visual Studio Code.)</p>
-  
-
-    </body>
-    </html>
